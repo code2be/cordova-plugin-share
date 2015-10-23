@@ -9,6 +9,10 @@ In your phonegap/cordova project, type:
 
 `cordova plugins add https://github.com/markmarijnissen/cordova-plugin-share.git`
 
+### NPM
+
+Plugin available on npmjs as: [cordova-plugin-share](https://www.npmjs.com/package/cordova-plugin-share)
+
 ### Usage
 
 `navigator.share(text,title,mimetype)`
